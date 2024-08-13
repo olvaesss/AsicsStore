@@ -1,0 +1,25 @@
+{
+  "name": "asicsstore",
+  "version": "1.0.0",
+  "description": "Brend shoes market",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/olvaesss/AsicsStore.git"
+  },
+  "keywords": [
+    "Nest",
+    "React",
+    "Node",
+    "JavaScript"
+  ],
+  "author": "Staravoitau <stepaosnova1@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olvaesss/AsicsStore/issues"
+  },
+  "homepage": "https://github.com/olvaesss/AsicsStore#readme"
+}
